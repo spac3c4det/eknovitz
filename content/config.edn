@@ -1,7 +1,7 @@
 {:site-title                   "Emil Konstantinovitz"
  :author                       "Emil Konstantinovitz"
  :description                  "My personal blog"
- :site-url                     "http://blogawesome.com/"
+ :site-url                     "https://spac3c4det.github.io/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
