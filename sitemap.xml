@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
-http://blogawesome.com/blog/posts-output/2014-11-04-second-post/index.html
+https://spac3c4det.github.io/blog/posts-output/2020-12-03-docs/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -10,7 +10,7 @@ http://blogawesome.com/blog/posts-output/2014-11-04-second-post/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/posts-output/2020-12-03-docs/index.html
+https://spac3c4det.github.io/blog/tags/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -18,7 +18,7 @@ http://blogawesome.com/blog/posts-output/2020-12-03-docs/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/posts-output/2014-03-10-first-post/index.html
+https://spac3c4det.github.io/blog/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -26,7 +26,7 @@ http://blogawesome.com/blog/posts-output/2014-03-10-first-post/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/tags/index.html
+https://spac3c4det.github.io/blog/404.html
 </loc>
 <lastmod>
 2022-08-24
@@ -34,7 +34,7 @@ http://blogawesome.com/blog/tags/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/index.html
+https://spac3c4det.github.io/blog/tags-output/cryogen/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -42,7 +42,7 @@ http://blogawesome.com/blog/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/404.html
+https://spac3c4det.github.io/blog/archives/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -50,7 +50,7 @@ http://blogawesome.com/blog/404.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/tags-output/very fetch/index.html
+https://spac3c4det.github.io/blog/pages-output/about/index.html
 </loc>
 <lastmod>
 2022-08-24
@@ -58,47 +58,7 @@ http://blogawesome.com/blog/tags-output/very fetch/index.html
 </url>
 <url>
 <loc>
-http://blogawesome.com/blog/tags-output/not fetch/index.html
-</loc>
-<lastmod>
-2022-08-24
-</lastmod>
-</url>
-<url>
-<loc>
-http://blogawesome.com/blog/tags-output/cryogen/index.html
-</loc>
-<lastmod>
-2022-08-24
-</lastmod>
-</url>
-<url>
-<loc>
-http://blogawesome.com/blog/archives/index.html
-</loc>
-<lastmod>
-2022-08-24
-</lastmod>
-</url>
-<url>
-<loc>
-http://blogawesome.com/blog/pages-output/another-page/index.html
-</loc>
-<lastmod>
-2022-08-24
-</lastmod>
-</url>
-<url>
-<loc>
-http://blogawesome.com/blog/pages-output/about/index.html
-</loc>
-<lastmod>
-2022-08-24
-</lastmod>
-</url>
-<url>
-<loc>
-http://blogawesome.com/blog/authors-output/Emil Konstantinovitz/index.html
+https://spac3c4det.github.io/blog/authors-output/Emil Konstantinovitz/index.html
 </loc>
 <lastmod>
 2022-08-24
